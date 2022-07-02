@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello hot-fig");
         System.out.println("master test");
         System.out.println("hot-fig test");
+        System.out.println("ssh test");
     }
 }
